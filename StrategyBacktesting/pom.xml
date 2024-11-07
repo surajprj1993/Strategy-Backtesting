@@ -10,4 +10,18 @@
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>com.appdevclaymaster.strategybacktesting.StrategyBacktesting</exec.mainClass>
     </properties>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.8</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math3</artifactId>
+            <version>3.6.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
