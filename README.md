@@ -1,4 +1,4 @@
-# Strategy-Backtesting
+# Strategy Backtesting
 Welcome to the Stock Market Strategies Backtesting repository! This repository contains code on how to backtest stock market strategies using java
 
 ## Features
